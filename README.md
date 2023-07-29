@@ -1,3 +1,11 @@
-#리사이클 & 하이브리드 클라우드 구축
+Subject : Hybrid Cloud develope 
 
-프로젝트 pdf 파일입니다. 
+Propose
+ - Hybrid Cloud Transformation by Adding Cloud to Fixed Resources
+ - Add service : Additional resource standby, Monitoring
+
+Use tech
+ - Onpremise : Kubernetes / MetalLB / Ansible / Prometheus / Grafana
+ - Cloud : Terraform / AWS ( EC2, RDS, EKS, Route53, EFS, VPN, ACM, CloudWatch, CloudTrail, WAF, ALB, ASM )
+
+
